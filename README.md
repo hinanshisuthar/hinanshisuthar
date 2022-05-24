@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hinanshi04" target="blank"><img src="https://img.shields.io/twitter/follow/hinanshi04?logo=twitter&style=for-the-badge" alt="hinanshi04" /></a> </p>
 
-- 🔭 I’m currently learning web development with **NeogCamp**
+- 🔭 I’m currently learning web development
 
 - 👯 I’m looking to collaborate on **real world projects**
 
